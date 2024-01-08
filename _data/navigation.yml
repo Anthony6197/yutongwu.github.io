@@ -1,22 +1,26 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "CV"
+    url: /files/CV_Yutong Wu.pdf
+
+  - title: "Publications"
+    url: /publication/
 
   - title: "Teaching"
     url: /teaching/   
     
+  # - title: "Talks"
+  #   url: /talks/    
+
+
   # - title: "Portfolio"
   #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /files/CV_Yutong Wu.pdf
+
     
   # - title: "Guide"
   #   url: /markdown/
