@@ -6,8 +6,7 @@ excerpt: "Theory of Mind (ToM), the cognitive ability to understand people's min
 date: 2023-11-08
 venue: 'FMDM@NeurIPS2023'
 paperurl: 'https://openreview.net/pdf?id=jbLM1yvxaL'
-citation: 'Jin, C., Wu, Y., Cao, J., Xiang, J., Kuo, Y. L., Hu, Z., ... & Shu, T. (2023, November). MMToM-QA: Multimodal Theory of Mind Question Answering. In NeurIPS 2023 Foundation Models for Decision Making Workshop.'
-
+citation: "Jin, C., Wu, Y., Cao, J., Xiang, J., Kuo, Y. L., Hu, Z., ... & Shu, T. (2023, November). MMToM-QA: Multimodal Theory of Mind Question Answering. In NeurIPS 2023 Foundation Models for Decision Making Workshop."
 ---
 
 [Download paper here](https://openreview.net/pdf?id=jbLM1yvxaL)
