@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Brain and AI](/images/yutongwu.png)
+![Brain and AI](https://github.com/Anthony6197/yutongwu.github.io/blob/master/images/cogAI.png)
 
 I'm a final-year M.Eng student at Harvard in Computational Science Engineering, with a keen interest in cognitive AI, computational cognitive/neuroscience, and human-centric AI. Additionally, I explore the application of ML and AI in computational social science, particularly in economic and financial markets. Currently, my master's thesis delves into multi-modal models, theory of mind, and deep learning. Excitedly, I'm actively seeking a PhD position for Fall 2024.
 
