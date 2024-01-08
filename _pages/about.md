@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-  ![Brain and AI](/images/cai.png){: .align-right width="300px"}
+  ![Brain and AI](/images/cai.png){: .align-right}
   
   📖I'm a final-year M.Eng student at Harvard in Computational Science Engineering, with a keen interest in cognitive AI, computational cognitive/neuroscience, and human-centric AI. Additionally, 
 
