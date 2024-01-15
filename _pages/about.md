@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-  📖 I'm a final-year M.Eng student at Harvard in Computational Science Engineering, with a keen interest in cognitive AI, computational cognitive/neuroscience, and human-centric AI. Additionally, 
+  📖 I'm a final-year M.Eng student at Harvard in Computational Science Engineering, with a keen interest in cognitive AI, computational cognitive/neuroscience, and human-centric AI. Additionally, I am also broadly interested in computational social science, explainable/interpretable AI and human-AI collaboration.
 
   🤖 I explore the application of ML and AI in computational social science, particularly in economic and financial markets. Currently, my master's thesis delves into multi-modal models, theory of mind, and deep learning. 
   
