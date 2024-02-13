@@ -12,7 +12,7 @@ redirect_from:
 
   🤖 I explore the application of ML and AI in computational social science, particularly in economic and financial markets. Currently, my master's thesis delves into multi-modal models, theory of mind, and deep learning. 
   
-  🎓 Excitedly, I'm actively seeking PhD and working opportunities (ideally AI, LLM related) for Fall 2024. Please [get in touch](ywu4@g.harvard.edu) if you think we have similar research interes.
+  🎓 Excitedly, I'm actively seeking PhD and working opportunities (ideally AI, LLM related) for Fall 2024. Please [get in touch](ywu4@g.harvard.edu) if you think we have similar research interest.
 
 
 ## Selected Experience
